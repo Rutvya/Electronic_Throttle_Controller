@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1613629786 source:c:\users\rutvi\desktop\embedded c\etc\fuse.c
+	<avr/io.h>
+
+1613730298 source:c:\users\rutvi\desktop\embedded c\etc\gpio.c
+	"GPIO.h"
+
+1613730263 c:\users\rutvi\desktop\embedded c\etc\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1613733051 source:c:\users\rutvi\desktop\embedded c\etc\main.c
+	"ETC_app.h"
+
+1613676723 source:c:\users\rutvi\desktop\embedded c\etc\adc.c
+	"ADC.h"
+
+1613676712 c:\users\rutvi\desktop\embedded c\etc\adc.h
+	"GPIO.h"
+
+1613656678 source:c:\users\rutvi\desktop\embedded c\etc\pwm.c
+	"PWM.h"
+
+1613659735 c:\users\rutvi\desktop\embedded c\etc\pwm.h
+	"GPIO.h"
+
+1613733180 source:c:\users\rutvi\desktop\embedded c\etc\etc_app.c
+	"ETC_app.h"
+
+1613719581 c:\users\rutvi\desktop\embedded c\etc\etc_app.h
+	"GPIO.h"
+	"PWM.h"
+	"ADC.h"
+
+1613676723 source:c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\adc.c
+	"ADC.h"
+
+1613676712 c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\adc.h
+	"GPIO.h"
+
+1613730263 c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\gpio.h
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1613733180 source:c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\etc_app.c
+	"ETC_app.h"
+
+1613719581 c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\etc_app.h
+	"GPIO.h"
+	"PWM.h"
+	"ADC.h"
+
+1613659735 c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\pwm.h
+	"GPIO.h"
+
+1613629786 source:c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\fuse.c
+	<avr/io.h>
+
+1613730298 source:c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\gpio.c
+	"GPIO.h"
+
+1613733051 source:c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\main.c
+	"ETC_app.h"
+
+1613656678 source:c:\users\rutvi\desktop\embedded c\rutvij_2005502_embedded_milestone\etc\pwm.c
+	"PWM.h"
+
+1616581789 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\adc.c
+	"ADC.h"
+
+1616495304 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\adc.h
+	<avr/io.h>
+	<stdint.h>
+	<avr/delay.h>
+
+1613629788 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\fuse.c
+	<avr/io.h>
+
+1616842190 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\main.c
+	"ETC.h"
+
+1616437815 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\gpio.h
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1616438472 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\pwm.h
+	<stdint.h>
+	<avr/io.h>
+
+1616438460 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\pwm.c
+	"PWM.h"
+
+1616435209 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\gpio.c
+	"GPIO.h"
+
+1616842244 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\etc.c
+	"ETC.h"
+
+1616581919 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\etc\etc.h
+	"ADC.h"
+	"GPIO.h"
+	"PWM.h"
+
+1616581789 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\adc.c
+	"ADC.h"
+
+1616495304 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\adc.h
+	<avr/io.h>
+	<stdint.h>
+	<avr/delay.h>
+
+1617523353 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\etc.c
+	"ETC.h"
+
+1617299561 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\etc.h
+	"ADC.h"
+	"GPIO.h"
+	"PWM.h"
+
+1616437815 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\gpio.h
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1616438472 c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\pwm.h
+	<stdint.h>
+	<avr/io.h>
+
+1613629788 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\fuse.c
+	<avr/io.h>
+
+1616435209 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\gpio.c
+	"GPIO.h"
+
+1616951129 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\main.c
+	"ETC.h"
+
+1617300202 source:c:\users\rutvi\desktop\study\kpit\embedded c\rutvij_2005502_embedded_milestone\2005502_mainproject\pwm.c
+	"PWM.h"
+
+1616581789 source:c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\adc.c
+	"ADC.h"
+
+1616495304 c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\adc.h
+	<avr/io.h>
+	<stdint.h>
+	<avr/delay.h>
+
+1617523353 source:c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\etc.c
+	"ETC.h"
+
+1617299561 c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\etc.h
+	"ADC.h"
+	"GPIO.h"
+	"PWM.h"
+
+1616437815 c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\gpio.h
+	<stdint.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1616438472 c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\pwm.h
+	<stdint.h>
+	<avr/io.h>
+
+1613629788 source:c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\fuse.c
+	<avr/io.h>
+
+1616435209 source:c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\gpio.c
+	"GPIO.h"
+
+1616951129 source:c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\main.c
+	"ETC.h"
+
+1617300202 source:c:\users\rutvi\desktop\study\kpit\embedded c\2005502_embeddedmilestone_1\2005502_mainproject\pwm.c
+	"PWM.h"
+
